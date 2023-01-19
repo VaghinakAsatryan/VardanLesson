@@ -48,7 +48,7 @@ class Vehicle:
 car = Vehicle(120, 25000)
 car.Vehicle_info()
 
-print("_______________________________________________________________")
+print("_________________________________________________________________")
 
 print("4. Create a child class Bus that will inherit all of the variables and methods of the Vehicle class\n")
 
