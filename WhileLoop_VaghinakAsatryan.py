@@ -56,6 +56,8 @@ listA_copy = listA
 listA.sort()
 
 if (listA == listA_copy):
-   print("Yes, List is sorted.")
+   print("Yes, List is sorted!")
 else:
-   print("No, List is not sorted.")
+   print("No, List is not sorted!")
+
+#Happy Birthday
